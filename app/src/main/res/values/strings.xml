@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AppEcommerce</string>}
+    <string name="Tagline">The One Stop\nFor Farmers</string>
+    <string name="belowTag">Get access to \nbest products\n straight from the soil</string>
+
+    <string name="rightAddress">Tu app favorita \nde compras \nonline</string>
+
+    <string name="qulity">¡Ahora es muy fácil alcanzar \nla mejor calidad entre los \nproductos en Internet!</string>
+    <string name="storeapp">StoreApp.</string>
+    <string name="registrate">Registrate</string>
+    <string name="tiene_usted_una_cuenta_acceso">¿Tiene usted una cuenta? acceso</string>
+    <string name="nombre">Primer nombre</string>
+    <string name="s_nombre">Segundo nombre</string>
+    <string name="correo">Correo</string>
+    <string name="password">Contraseña\n</string>
+    <string name="register">Registrate</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+</resources>
